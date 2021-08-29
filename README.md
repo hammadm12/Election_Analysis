@@ -16,6 +16,8 @@ To further analyze the election audit in terms of percentage of votes being coun
 
 ## Summary
 
+![](Resoruces/Challenge_Output.PNG)
+
 Upon analysis of the election data, it reveals:
 - There was a total of **369711** overall votes
 - **Denver County** had the largest overall turnout of any county
