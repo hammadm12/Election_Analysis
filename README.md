@@ -14,7 +14,7 @@ Tom and Seth are a part of a Colorado Board of Election and tasked with the foll
 ### Purpose
 To further analyze the election audit in terms of percentage of votes being counted in each county, overall vote count in each county, and interpreting which county had the greater number of voter turnout.
 
-## Summary
+## Overview of Election Audit
 
 ![](Resources/Challenge_Output.PNG)
 
