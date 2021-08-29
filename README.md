@@ -21,6 +21,8 @@ To further analyze the election audit in terms of percentage of votes being coun
 ## Summary
 Upon analysis of the election data, it reveals:
 - There was a total of **369711** overall votes
+- Denver County had the largest overall turnout of any county
+    -Denver County account for 306,055 votes, approximately 82.8% of the overall vote of 369711
 - The candidates that ran for election were:
     - Charles Casper Stockham: 85,213 (23 %)
     - Diana DeGette: 272,892 (73.8%)
