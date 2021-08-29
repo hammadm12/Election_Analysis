@@ -14,14 +14,11 @@ Tom and Seth are a part of a Colorado Board of Election and tasked with the foll
 ### Purpose
 To further analyze the election audit in terms of percentage of votes being counted in each county, overall vote count in each county, and interpreting which county had the greater number of voter turnout.
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.7.8, Visual Studio Code 2019, GitBash
-
 ## Summary
+
 Upon analysis of the election data, it reveals:
 - There was a total of **369711** overall votes
-- Denver County had the largest overall turnout of any county
+- **Denver County** had the largest overall turnout of any county
     -Denver County account for 306,055 votes, approximately 82.8% of the overall vote of 369711
 - The candidates that ran for election were:
     - Charles Casper Stockham: 85,213 (23 %)
@@ -32,5 +29,11 @@ Upon analysis of the election data, it reveals:
     - Diana DeGette received 272,892 votes, roughly 73.8% of the overall votes
     - Raymon Anthony Doane received 11,606 votes, roughly only 3.1% of the overall votes
 - The winner of the election was **Diana DeGette**
+
+## Resources
+- Data Source: election_results.csv
+- Software: Python 3.7.8, Visual Studio Code 2019, GitBash
+
+
     
 
